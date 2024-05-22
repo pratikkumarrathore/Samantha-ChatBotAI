@@ -1,0 +1,2 @@
+# Samantha-ChatBotAI
+ Python, JSON
